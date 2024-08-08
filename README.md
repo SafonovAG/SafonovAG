@@ -1,11 +1,22 @@
+
 <h1 align="center">
-  Приветствую всех добропорядочных! 👋
+  Приветствую всех добропорядочных! 👋 <br>
+<img src="https://komarev.com/ghpvc/?username=SafonovAG&style=dark&color=blue" alt="Просмотры профиля"/>
 </h1>
-<div id="header" align="center">
-Для связи
-</div>
 <div id="badges" align="center">
-  <a href="https://t.me/safonov_ag"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@safonov_ag"/></a>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cвязаться+со+мной+можно+в+Телеграм)](https://git.io/typing-svg)
+  
+<a href="https://t.me/safonov_ag" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@safonov_ag"/></a>
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafonovAG&theme=solarized_dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SafonovAG&theme=darkhub&no-frame=true)](https://github.com/SafonovAG/github-profile-trophy)
+
 </div>
 
 ---
@@ -51,5 +62,20 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" height="40"/>&nbsp;
-
+</div>
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </div>
