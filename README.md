@@ -7,7 +7,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cвязаться+со+мной+можно+в+Телеграм)](https://git.io/typing-svg)
   
-<a href="https://t.me/safonov_ag" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@safonov_ag"/></a>
+<a href="https://t.me/safonov_robot" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@safonov_ag"/></a>
 </div>
 
 ---
