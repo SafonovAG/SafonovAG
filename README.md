@@ -30,7 +30,7 @@
 - 🌱 Свободного времени много, поэтому творю.
 
 
-- Мой последний проект в <a href="https://t.me/glavcoin_bot">Telegram GlavCoin Game</a> (MiniApp/WebApp)
+- Мой последний проект в <a href="https://t.me/wb_best_today">Парсер популярных товаров с WB (Wildberries) и публикация в телеграм-канал</a> (PHP)
 
 ---
 <h3 align="center">
